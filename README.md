@@ -24,7 +24,7 @@ Når du har pakket dem ud, skal din mappestruktur gerne se ud på følgende måd
 C:\Kursusfiler\
 ├── Data\
 ├── Diverse\
-├── Kapitel x\
+├── Kapitel x-xx\
 ├── Labs\
 └── Tools\
 ```
