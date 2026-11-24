@@ -1,0 +1,12 @@
+SalesTerritoryKey;Region;Country;Continent;Flag
+1;Northwest;United States;North America;https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg
+2;Northeast;United States;North America;https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg
+3;Central;United States;North America;https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg
+4;Southwest;United States;North America;https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg
+5;Southeast;United States;North America;https://www.cia.gov/the-world-factbook/static/flags/US-flag.jpg
+6;Canada;Canada;North America;https://www.cia.gov/the-world-factbook/static/flags/CA-flag.jpg
+7;France;France;Europe;https://www.cia.gov/the-world-factbook/static/flags/FR-flag.jpg
+8;Germany;Germany;Europe;https://www.cia.gov/the-world-factbook/static/flags/GM-flag.jpg
+9;Australia;Australia;Pacific;https://www.cia.gov/the-world-factbook/static/flags/AS-flag.jpg
+10;United Kingdom;United Kingdom;Europe;https://www.cia.gov/the-world-factbook/static/flags/UK-flag.jpg
+11;Denmark;Denmark;Europe;https://www.cia.gov/the-world-factbook/static/flags/DA-flag.jpg
